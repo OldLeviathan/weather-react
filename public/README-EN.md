@@ -30,6 +30,6 @@ Click on "Get weather" button and get result
 * Write in the terminal ``npm.start``.
 ---
 ## README
-1. [RU - ru](README.md)
+1. [RU - ru](../README.md)
 2. [EN - en](README-EN.md)
 3. [GN -gn](README-GN.md)
