@@ -1,30 +1,30 @@
-#Website zum Thema Wetter
+# Website zum Thema Wetter
 ____
 
-####Bietet das Wetter für die vom Benutzer angegebene Stadt.
+#### Bietet das Wetter für die vom Benutzer angegebene Stadt.
 
 * Dateneingabeformular
 * Datentabelle
 * Graph (funktioniert nicht)
 ---
 
-##Screenshots
+## Screenshots
 
 Hauptregisterkarte
 
-![link](public/scrone.jpg)
+![link](scrone.jpg)
 
 Geben Sie in diesem Feld einen Städtenamen ein
 
-![link](public/scrtwo.jpg)
+![link](scrtwo.jpg)
 
 Klicken Sie auf "Wetter abfragen" und Sie erhalten das Ergebnis!
 
-![link](public/scrthree.jpg)
+![link](scrthree.jpg)
 
 ---
 
-##Verwendung.
+## Verwendung.
 
 * Sie müssen [Node.js](https://nodejs.org/en/) installiert haben
 * Schreiben Sie ``npm.start`` in das Terminal
