@@ -1,30 +1,30 @@
-#Weather site
+# Weather site
 ____
 
-####Provides weather for the city that the user will input.
+#### Provides weather for the city that the user will input.
 
 * Data entry form
 * Table with received data
 * Graph (not working)
 ---
 
-##Screenshots
+## Screenshots
 
 Main tab
 
-![link](public/scrone.jpg)
+![link](scrone.jpg)
 
 Enter a city name in this field
 
-![link](public/scrtwo.jpg)
+![link](scrtwo.jpg)
 
 Click on "Get weather" button and get result
 
-![link](public/scrthree.jpg)
+![link](scrthree.jpg)
 
 ---
 
-##Usage
+## Usage
 
 * You must have [Node.js](https://nodejs.org/en/) installed.
 * Write in the terminal ``npm.start``.
