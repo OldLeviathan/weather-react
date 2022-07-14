@@ -30,6 +30,6 @@ Klicken Sie auf "Wetter abfragen" und Sie erhalten das Ergebnis!
 * Schreiben Sie ``npm.start`` in das Terminal
 
 ## README
-1. [RU - ru](README.md)
+1. [RU - ru](../README.md)
 2. [EN - en](/public/README-EN.md)
 3. [GN -gn](/public/README-GN.md)
